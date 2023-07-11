@@ -1,0 +1,25 @@
+body{
+     font-family: sans-serif;
+     background-color: antiquewhite;
+}
+
+.container{
+     margin: 0 400px;
+}
+
+h1{
+     color: green;
+}
+
+h2{
+     color: purple;
+}
+
+li{
+     margin: 10px 0;
+}
+
+button{
+     background-color: burlywood;
+     margin: 0 5px;
+}
